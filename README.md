@@ -1,8 +1,12 @@
 # indic-feature-extraction
 
-## Contributing
+## Python Package Requirements
 
-- If you find any interesting papers, please list them below in the Literature section of this README
-- Upload weekly slides to the slides folder, with the Week/Date written in the file title
+- `simpletransformers`: light-weight transformers library for running models
+- ``
 
-## Literature
+Install them using the following pip command:
+
+```python
+  pip install simpletransformers sacrebleu jiwer rouge_score evaluate
+```
