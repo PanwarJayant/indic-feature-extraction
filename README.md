@@ -9,14 +9,15 @@ A team-project for IRE course @ IIIT Hyderabad.
 
 ## Python Package Requirements
 
-- `simpletransformers`: light-weight transformers library for running models
+- `simpletransformers`: light-weight transformers library for running mt5 and mBART models
+- `sentence-transformers`: light-weight transformers library for LABSE model
 - `sacrebleu, jiwer, rouge_score`: dependencies for the `evaluate` library
 - `evaluate`: for performing evaluations on the model predictions
 
 Install them using the following pip command:
 
 ```python
-  pip install simpletransformers sacrebleu jiwer rouge_score evaluate
+  pip install simpletransformers sentence-transformers sacrebleu jiwer rouge_score evaluate
 ```
 
 ## How to Run

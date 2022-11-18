@@ -10,3 +10,4 @@
 
 - **[mBART](./mBART)**: contains the already run python notebooks of the different mBART models
 - **[mT5](./MT5)**: contains the already run python notebooks of the different mt5-base and mt5-small models
+- **[LABSE](./LABSE/)**: contains the already run python notebooks of the different LABSE models
